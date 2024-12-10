@@ -58,14 +58,6 @@
 implementation 'io.github.jidcoo:leetcode-java-debug-enhancer:1.0.2'
 ```
 
-#### **Jar**
-
-| Resource         | Index                                                                                                                                                                                        |
-| ------------ |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Repository Hosting    | [Click here to browse the repository for this project](https://central.sonatype.com/artifact/io.github.jidcoo/leetcode-java-debug-enhancer/)                                                 |
-| Standard-Jar | [Click here to download directly(Standard-Jar)](https://repo1.maven.org/maven2/io/github/jidcoo/leetcode-java-debug-enhancer/1.0.2/leetcode-java-debug-enhancer-1.0.2.jar)                   |
-| Full-Jar     | [Click here to download directly(Full-Jar)](https://repo1.maven.org/maven2/io/github/jidcoo/leetcode-java-debug-enhancer/1.0.2/leetcode-java-debug-enhancer-1.0.2-jar-with-dependencies.jar) |
-
 ### Install
 
 Just import **LeetcodeJavaDebugEnhancer** as the project library.
@@ -74,8 +66,6 @@ Just import **LeetcodeJavaDebugEnhancer** as the project library.
 
 - The minimum supported Java version is **Java 8**.
 - **LeetcodeJavaDebugEnhancer** depends on [Gson](https://github.com/google/gson), version [2.10.1](https://central.sonatype.com/artifact/com.google.code.gson/gson/2.10.1). For non Maven, non Gradle projects that do not include the Gson library, please use **Full-Jar** or manually import Gson library to your project.
-
-
 
 
 ## 🛠 Basic Usage
